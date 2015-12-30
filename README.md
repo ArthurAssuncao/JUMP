@@ -8,6 +8,14 @@ O _JUMP_ detecta a partir de uma webCam os movimentos de pulo e agachamento e en
 # Características
 A detecção de movimentos é realizados através do _OpenCV_. Já o jogo foi desenvolvido em _HTML5_ utilizando o framework _Phaser_.
 
+# Screenshots
+
+<p align="center"><img src="https://github.com/ArthurAssuncao/jump/blob/master/screenshots/0.jpg"></p>
+
+<p align="center"><img src="https://github.com/ArthurAssuncao/jump/blob/master/screenshots/1.jpg"></p>
+
+<p align="center"><img src="https://github.com/ArthurAssuncao/jump/blob/master/screenshots/2.jpg"></p>
+
 # Instalação
 
   1. Instale o Git:
